@@ -265,6 +265,7 @@ span.den{
 }
 /* Halaman cupcake */
 #cupcake{
+  background-color: blue;
   font-size: 50px;
   color: blue;
   height: 146vh;
